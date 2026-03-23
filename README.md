@@ -1,3 +1,20 @@
+# RoadCast
+
+> WebRTC streamer for cameras, RTSP, and screen capture
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`mpromonet/webrtc-streamer`](https://github.com/mpromonet/webrtc-streamer) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | Multiple |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 
 # WebRTC-Streamer
 <a href="https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO_Air"><img alt="A picture of a Nano PI NEO Air" src="images/nanopi.jpg" width="500"></a>
